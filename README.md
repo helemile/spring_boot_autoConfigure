@@ -1,0 +1,2 @@
+# spring_boot_autoConfigure
+使用SpringBoot，自己动手实现自动配置demo
